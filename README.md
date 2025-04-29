@@ -1,5 +1,5 @@
 
-# Introdution
+# Introduction
 
 Script to help to purge all the "retention leases" from an Azure DevOps build that block pipeline deletion.
 
