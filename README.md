@@ -1,9 +1,11 @@
 
-# Introduction
+# Azure DevOps purge leases
+
+## Introduction
 
 Script to help to purge all the "retention leases" from an Azure DevOps build that block pipeline deletion.
 
-# Run
+## Run
 
 Define environment variables in `.env` file (use `.env.example` as base).
 
